@@ -1,0 +1,15 @@
+body {
+    background: #FDD9B5;
+    margin:5px;
+    padding: 5px;
+    line-height: 0.1px;
+    color: #fff;
+    font-family: serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+canvas {
+    border: solid 0.2em #fff;
+    height: 90vh;
+}
